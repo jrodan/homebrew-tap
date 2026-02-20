@@ -25,4 +25,4 @@ brew upgrade --cask brightness-control
 
 ## Documentation
 
-For more information, see the main repository: [jrodan/brightness-control-macos](https://github.com/jrodan/brightness-control-macos).
+For more information, see the main repository: [jrodan/macos-monitor-brightness-control](https://github.com/jrodan/macos-monitor-brightness-control).
