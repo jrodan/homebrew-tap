@@ -1,6 +1,6 @@
 cask "brightness-control" do
   version "0.0.6"
-  sha256 "540427d5f484c785022984b5a8a56ca4200a992acc5a798b05b1b971e1e6a02c"
+  sha256 "e72c848f9009f32c431edb18689d4b4b241a8750bd4ad1cafd680486ab25ef56"
 
   url "https://github.com/jrodan/macos-monitor-brightness-control/releases/download/v#{version}/BrightnessControl.zip"
   name "Brightness Control"
